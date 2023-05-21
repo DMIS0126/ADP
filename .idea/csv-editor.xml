@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="/Private_Study/ML - Supervised Learning/data/spam.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/Private_Study/Statistical Analysis/data/titanic.csv">
           <value>
             <Attribute>
